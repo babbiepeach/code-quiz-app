@@ -6,6 +6,9 @@ export default {
       backgroundImage: {
         "custom-pattern": "url('src/assets/quiz wallpaper light.jpg')",
       },
+      fontFamily: {
+        rubik: ["Rubik ", "sans-serif"],
+      },
     },
   },
   plugins: [],
